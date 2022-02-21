@@ -1,6 +1,6 @@
 // No cambies los nombres de las funciones.
 
-function obtenerMayor(x, y) {
+function obtenerMayor(5, 10) {
   // "x" e "y" son números enteros (int).
   // Devuelve el número más grande
   // Si son iguales, devuelve cualquiera de los dos
